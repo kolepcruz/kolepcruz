@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### My name is Enrique
-
-## 🌱 Main interests:
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="20"> Embedded C
+I'm an Embedded Software Developer
+Mostly use the following languages for firmware development and scripting
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="20"> C
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="20">  C++
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_16x16.png"> Python
 
